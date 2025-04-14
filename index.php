@@ -4,7 +4,7 @@
 
   <!--========== ▼ main_content ==========-->
   <main class="main_content">
-
+    <p>あいうえお</p>
   </main>
   <!--========== ▲ main_content ==========-->
 
