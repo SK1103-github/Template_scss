@@ -8,16 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SK1103-github/kamitsuji.git"
+    "url": "git+https://github.com/SK1103-github/Template_scss.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/SK1103-github/kamitsuji/issues"
+    "url": "https://github.com/SK1103-github/Template_scss/issues"
   },
-  "homepage": "https://github.com/SK1103-github/kamitsuji#readme",
+  "homepage": "https://github.com/SK1103-github/Template_scss#readme",
   "devDependencies": {
     "gulp": "^5.0.0",
     "gulp-sass": "^6.0.1",
